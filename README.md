@@ -1,4 +1,4 @@
 # Head First - Design Patterns
 
-* Identify the aspects and seperate what varies from what remains the same
-* Program to an implementation
+1. Identify the aspects and seperate what varies from what remains the same
+2. Program to an implementation
