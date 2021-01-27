@@ -2,6 +2,11 @@ package com.github.muhammedshaheer.designpatterns.strategypattern;
 
 import com.github.muhammedshaheer.designpatterns.strategypattern.fly.FlyRocketPowered;
 
+/**
+ * @author Muhammed Shaheer
+ * @since 27 January 2021
+ */
+
 public class MiniDuckSimulator {
 
     public static void main(String[] args) {
