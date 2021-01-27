@@ -1,7 +1,7 @@
-package com.github.muhammedshaheer.designpatterns.simuduck;
+package com.github.muhammedshaheer.designpatterns.strategypattern;
 
-import com.github.muhammedshaheer.designpatterns.simuduck.fly.FlyBehaviour;
-import com.github.muhammedshaheer.designpatterns.simuduck.quack.QuackBehaviour;
+import com.github.muhammedshaheer.designpatterns.strategypattern.fly.FlyBehaviour;
+import com.github.muhammedshaheer.designpatterns.strategypattern.quack.QuackBehaviour;
 
 public abstract class Duck {
     FlyBehaviour flyBehaviour;

@@ -1,4 +1,4 @@
-package com.github.muhammedshaheer.designpatterns.simuduck.fly;
+package com.github.muhammedshaheer.designpatterns.strategypattern.fly;
 
 public class FlyWithWings implements FlyBehaviour {
 

@@ -1,7 +1,7 @@
-package com.github.muhammedshaheer.designpatterns.simuduck;
+package com.github.muhammedshaheer.designpatterns.strategypattern;
 
-import com.github.muhammedshaheer.designpatterns.simuduck.fly.FlyWithWings;
-import com.github.muhammedshaheer.designpatterns.simuduck.quack.Quack;
+import com.github.muhammedshaheer.designpatterns.strategypattern.fly.FlyWithWings;
+import com.github.muhammedshaheer.designpatterns.strategypattern.quack.Quack;
 
 public class MallardDuck extends Duck {
 

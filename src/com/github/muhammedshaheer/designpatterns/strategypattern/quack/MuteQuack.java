@@ -1,4 +1,4 @@
-package com.github.muhammedshaheer.designpatterns.simuduck.quack;
+package com.github.muhammedshaheer.designpatterns.strategypattern.quack;
 
 public class MuteQuack implements QuackBehaviour {
 

@@ -1,6 +1,6 @@
-package com.github.muhammedshaheer.designpatterns.simuduck;
+package com.github.muhammedshaheer.designpatterns.strategypattern;
 
-import com.github.muhammedshaheer.designpatterns.simuduck.fly.FlyRocketPowered;
+import com.github.muhammedshaheer.designpatterns.strategypattern.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
 
