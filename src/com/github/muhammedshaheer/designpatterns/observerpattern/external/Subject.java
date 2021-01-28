@@ -1,4 +1,4 @@
-package com.github.muhammedshaheer.designpatterns.observerpattern;
+package com.github.muhammedshaheer.designpatterns.observerpattern.external;
 
 public interface Subject {
     void registerObserver(Observer observer);
